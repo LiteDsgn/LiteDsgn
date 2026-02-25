@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Custom SVG Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1A18&height=160&section=header&text=Henry%20Apata&fontSize=52&fontColor=FAFAF8&fontAlignY=45&desc=Product%20Designer%20%26%20Builder&descSize=18&descColor=9A9A92&descAlignY=72&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=1A1A18&amp;height=160&amp;section=header&amp;text=Henry%20Apata&amp;fontSize=52&amp;fontColor=FAFAF8&amp;fontAlignY=45&amp;desc=Product%20Designer%20and%20Builder&amp;descSize=18&amp;descColor=9A9A92&amp;descAlignY=72&amp;animation=fadeIn" width="100%" />
 
 <br/>
 
