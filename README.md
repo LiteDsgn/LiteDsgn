@@ -16,7 +16,7 @@
 <br/>
 
 <!-- Floating Top Languages Card (Fixed API parameters) -->
-<img align="right" src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,supabase,python,html,css,figma,vercel,git,apple&perline=4" alt="Tech Stack" />
+<img align="right" width="220" src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,supabase,html,css,figma,cursor,trae,vercel,git,apple&perline=4" alt="Tech Stack" />
 
 ### About
 
