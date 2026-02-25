@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- Seamless Header (Transparent backgrounds completely remove the gap) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Display&size=52&color=FAFAF8&center=true&vCenter=true&width=1000&height=100&background=00000000&lines=Henry+Apata&repeat=false" width="100%" alt="Henry Apata" />
-<img src="https://readme-typing-svg.herokuapp.com?font=outfit&pause=1000&color=9A9A92&center=true&width=1000&height=50&background=00000000&size=20&lines=Product+Designer+%26+Builder;I+design+it%2C+then+I+build+it." width="100%" alt="Typing Tagline" />
+<!-- Seamless Header (Canvas heights strictly cropped to remove padding) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Display&size=52&color=FAFAF8&center=true&vCenter=true&width=1000&height=65&background=00000000&lines=Henry+Apata&repeat=false" width="100%" alt="Henry Apata" />
+<img src="https://readme-typing-svg.herokuapp.com?font=outfit&pause=1000&color=9A9A92&center=true&width=1000&height=30&background=00000000&size=20&lines=Product+Designer+%26+Builder;I+design+it%2C+then+I+build+it." width="100%" alt="Typing Tagline" />
 
 <br/>
 
