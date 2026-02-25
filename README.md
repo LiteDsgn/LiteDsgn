@@ -1,27 +1,22 @@
 <div align="center">
 
-<!-- Seamless Dark Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Display&amp;size=52&amp;color=FAFAF8&amp;center=true&amp;vCenter=true&amp;width=1000&amp;height=120&amp;background=1A1A18&amp;lines=Henry+Apata&amp;repeat=false" width="100%" alt="Henry Apata" /><img src="https://readme-typing-svg.herokuapp.com?font=outfit&amp;pause=1000&amp;color=9A9A92&amp;center=true&amp;width=1000&amp;height=70&amp;background=1A1A18&amp;size=20&amp;lines=Product+Designer+%26+Builder;I+design+it%2C+then+I+build+it." width="100%" alt="Typing Tagline" />
+<!-- Seamless Header (Transparent backgrounds completely remove the gap) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Display&size=52&color=FAFAF8&center=true&vCenter=true&width=1000&height=100&background=00000000&lines=Henry+Apata&repeat=false" width="100%" alt="Henry Apata" />
+<img src="https://readme-typing-svg.herokuapp.com?font=outfit&pause=1000&color=9A9A92&center=true&width=1000&height=50&background=00000000&size=20&lines=Product+Designer+%26+Builder;I+design+it%2C+then+I+build+it." width="100%" alt="Typing Tagline" />
 
-<br/><br/>
+<br/>
 
-<!-- Social Links -->
-<a href="https://henryapata.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-1A1A18?style=for-the-badge&amp;logo=safari&amp;logoColor=white" alt="Portfolio" />
-</a>&nbsp;
-<a href="https://linkedin.com/in/henry-apata">
-  <img src="https://img.shields.io/badge/LinkedIn-1A1A18?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
-</a>&nbsp;
-<a href="mailto:adebanji.apata@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1A1A18?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
-</a>
+<!-- Social Links (Standard spacing prevents blue underlines) -->
+<a href="https://henryapata.netlify.app"><img src="https://img.shields.io/badge/Portfolio-1A1A18?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/henry-apata"><img src="https://img.shields.io/badge/LinkedIn-1A1A18?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:adebanji.apata@gmail.com"><img src="https://img.shields.io/badge/Email-1A1A18?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
 <br/>
 
-<!-- Floating Top Languages Card -->
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiteDsgn&amp;layout=compact&amp;hide_border=true&amp;bg_color=FAFAF8&amp;title_color=1A1A18&amp;text_color=656560&amp;langs_count=6" alt="Top Languages" />
+<!-- Floating Top Languages Card (Fixed API parameters) -->
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=LiteDsgn&layout=compact&hide_border=true&bg_color=FAFAF8&title_color=1A1A18&text_color=656560&langs_count=6" alt="Top Languages" />
 
 ### About
 
@@ -48,23 +43,23 @@ Based in **Lagos, Nigeria** · Open to opportunities
       </p>
       <p align="center">Neighborhood insights platform helping Nigerians make informed relocation decisions. Co-founded, designed, and built the full stack.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-1A1A18?style=flat-square&amp;logo=next.js&amp;logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&amp;logo=supabase&amp;logoColor=white" alt="Supabase" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Next.js-1A1A18?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Trainest</h3>
       <p align="center">
         <a href="https://apps.apple.com/us/app/trainest-coach/id6473017733">
-          <img src="https://img.shields.io/badge/App_Store-1A1A18?style=for-the-badge&amp;logo=apple&amp;logoColor=white" alt="App Store" />
+          <img src="https://img.shields.io/badge/App_Store-1A1A18?style=for-the-badge&logo=apple&logoColor=white" alt="App Store" />
         </a>
       </p>
       <p align="center">Two-sided personal training platform – iOS app for clients, web dashboard for trainers. Led product design end-to-end.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/iOS-1A1A18?style=flat-square&amp;logo=apple&amp;logoColor=white" alt="iOS" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=figma&amp;logoColor=white" alt="Figma" />
+        <img src="https://img.shields.io/badge/iOS-1A1A18?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
       </p>
     </td>
   </tr>
@@ -114,9 +109,9 @@ Based in **Lagos, Nigeria** · Open to opportunities
     <td valign="top" width="33%">
       <h4 align="center">Design</h4>
       <p align="center">
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=figma&amp;logoColor=white" alt="Figma" />
-        <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&amp;logo=framer&amp;logoColor=white" alt="Framer" />
-        <img src="https://img.shields.io/badge/Miro-FFD02F?style=flat-square&amp;logo=miro&amp;logoColor=black" alt="Miro" />
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+        <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer" />
+        <img src="https://img.shields.io/badge/Miro-FFD02F?style=flat-square&logo=miro&logoColor=black" alt="Miro" />
         <br/><br/>
         <sub>Design Systems · Prototyping · User Research · Usability Testing</sub>
       </p>
@@ -124,23 +119,23 @@ Based in **Lagos, Nigeria** · Open to opportunities
     <td valign="top" width="33%">
       <h4 align="center">Build</h4>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Next.js-1A1A18?style=flat-square&amp;logo=next.js&amp;logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Next.js-1A1A18?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <br/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&amp;logo=supabase&amp;logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
       </p>
     </td>
     <td valign="top" width="33%">
       <h4 align="center">AI & Tooling</h4>
       <p align="center">
-        <img src="https://img.shields.io/badge/Claude-1A1A18?style=flat-square&amp;logo=anthropic&amp;logoColor=white" alt="Claude" />
-        <img src="https://img.shields.io/badge/Cursor-1A1A18?style=flat-square&amp;logo=cursor&amp;logoColor=white" alt="Cursor" />
-        <img src="https://img.shields.io/badge/Vercel-1A1A18?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Vercel" />
+        <img src="https://img.shields.io/badge/Claude-1A1A18?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+        <img src="https://img.shields.io/badge/Cursor-1A1A18?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
+        <img src="https://img.shields.io/badge/Vercel-1A1A18?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
         <br/>
-        <img src="https://img.shields.io/badge/v0-1A1A18?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="v0" />
-        <img src="https://img.shields.io/badge/Copilot-1A1A18?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Copilot" />
+        <img src="https://img.shields.io/badge/v0-1A1A18?style=flat-square&logo=vercel&logoColor=white" alt="v0" />
+        <img src="https://img.shields.io/badge/Copilot-1A1A18?style=flat-square&logo=github&logoColor=white" alt="Copilot" />
       </p>
     </td>
   </tr>
@@ -152,12 +147,11 @@ Based in **Lagos, Nigeria** · Open to opportunities
 
 ### Activity
 
-<!-- Side-by-side stats locked onto one line -->
-<img src="https://github-readme-stats.vercel.app/api?username=LiteDsgn&amp;show_icons=true&amp;hide_border=true&amp;bg_color=FAFAF8&amp;title_color=1A1A18&amp;text_color=656560&amp;icon_color=1A1A18&amp;hide_title=true&amp;count_private=true&amp;hide_rank=true" width="48%" alt="GitHub Stats" />&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=LiteDsgn&amp;hide_border=true&amp;background=FAFAF8&amp;ring=1A1A18&amp;fire=1A1A18&amp;currStreakLabel=1A1A18&amp;sideLabels=656560&amp;currStreakNum=1A1A18&amp;dates=656560" width="48%" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=LiteDsgn&show_icons=true&hide_border=true&bg_color=FAFAF8&title_color=1A1A18&text_color=656560&icon_color=1A1A18&hide_title=true&count_private=true&hide_rank=true" width="48%" alt="GitHub Stats" />&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=LiteDsgn&hide_border=true&background=FAFAF8&ring=1A1A18&fire=1A1A18&currStreakLabel=1A1A18&sideLabels=656560&currStreakNum=1A1A18&dates=656560" width="48%" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=LiteDsgn&amp;style=flat-square&amp;color=1A1A18&amp;label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=LiteDsgn&style=flat-square&color=1A1A18&label=Profile+Views" alt="Profile Views" />
 
 <br/><br/>
 
