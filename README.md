@@ -1,11 +1,7 @@
 <div align="center">
 
 <!-- Custom SVG Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=1A1A18&amp;height=160&amp;section=header&amp;text=Henry%20Apata&amp;fontSize=52&amp;fontColor=FAFAF8&amp;fontAlignY=45&amp;desc=Product%20Designer%20and%20Builder&amp;descSize=18&amp;descColor=9A9A92&amp;descAlignY=72&amp;animation=fadeIn" width="100%" />
-
-<br/>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=outfit&pause=1000&color=9A9A92&center=true&width=435&lines=Product+Designer+%26+Builder;I+design+it%2C+then+I+build+it." alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Display&amp;size=52&amp;color=FAFAF8&amp;center=true&amp;vCenter=true&amp;width=1000&amp;height=120&amp;background=1A1A18&amp;lines=Henry+Apata&amp;repeat=false" width="100%" alt="Henry Apata" /><img src="https://readme-typing-svg.herokuapp.com?font=outfit&amp;pause=1000&amp;color=9A9A92&amp;center=true&amp;width=1000&amp;height=70&amp;background=1A1A18&amp;size=20&amp;lines=Product+Designer+%26+Builder;I+design+it%2C+then+I+build+it." width="100%" alt="Typing Tagline" />
 
 <br/><br/>
 
