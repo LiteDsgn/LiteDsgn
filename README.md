@@ -5,7 +5,7 @@
 
 <br/>
 
-<samp>I design it, then I build it.</samp>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=400&size=22&pause=1000&color=9A9A92&center=true&width=500&lines=Product+Designer+%26+Builder;I+design+it%2C+then+I+build+it." alt="Typing SVG" /></a>
 
 <br/><br/>
 
