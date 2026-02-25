@@ -15,14 +15,14 @@
 
 <br/>
 
-<!-- Floating Top Languages Card (Fixed API parameters) -->
-<img align="right" width="220" src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,supabase,html,css,figma,cursor,trae,vercel,git,apple&perline=4" alt="Tech Stack" />
+<!-- 5x2 Skill Grid (Core Stack) -->
+<img align="right" width="260" src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,supabase,html,css,figma,vercel,git&perline=5" alt="Tech Stack" />
 
 ### About
 
 Lead product designer who goes beyond the handoff. I think in systems, prototype in code, and ship products end-to-end.
 
-Currently building with AI-augmented workflows – using **Claude**, **Cursor**, and **Next.js** to move faster without compromising craft.
+Currently building with AI-augmented workflows – using **Cursor**, **Trae**, **v0**, and **Next.js** to move faster without compromising craft.
 
 Based in **Lagos, Nigeria** · Open to opportunities
 
