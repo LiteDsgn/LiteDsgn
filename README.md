@@ -29,7 +29,7 @@
 
 Lead product designer who goes beyond the handoff. I think in systems, prototype in code, and ship products end-to-end.
 
-Currently building with AI-augmented workflows — using **Claude**, **Cursor**, and **Next.js** to move faster without compromising craft.
+Currently building with AI-augmented workflows – using **Claude**, **Cursor**, and **Next.js** to move faster without compromising craft.
 
 Based in **Lagos, Nigeria** · Open to opportunities
 
@@ -62,7 +62,7 @@ Based in **Lagos, Nigeria** · Open to opportunities
           <img src="https://img.shields.io/badge/App_Store-1A1A18?style=for-the-badge&logo=apple&logoColor=white" alt="App Store" />
         </a>
       </p>
-      <p align="center">Two-sided personal training platform — iOS app for clients, web dashboard for trainers. Led product design end-to-end.</p>
+      <p align="center">Two-sided personal training platform – iOS app for clients, web dashboard for trainers. Led product design end-to-end.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/iOS-1A1A18?style=flat-square&logo=apple&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -84,7 +84,7 @@ Based in **Lagos, Nigeria** · Open to opportunities
     </td>
     <td width="33%" valign="top">
       <h4 align="center"><a href="https://github.com/LiteDsgn/KEPH">KEPH</a></h4>
-      <p align="center"><sub>AI-powered productivity app — converts text, transcripts, and voice into actionable to-do lists</sub></p>
+      <p align="center"><sub>AI-powered productivity app – converts text, transcripts, and voice into actionable to-do lists</sub></p>
     </td>
     <td width="33%" valign="top">
       <h4 align="center"><a href="https://github.com/LiteDsgn/NIVO">NIVO</a></h4>
@@ -98,7 +98,7 @@ Based in **Lagos, Nigeria** · Open to opportunities
     </td>
     <td width="33%" valign="top">
       <h4 align="center"><a href="https://github.com/LiteDsgn/operation-heartbeat">Operation Heartbeat</a></h4>
-      <p align="center"><sub>Gamified Valentine's Day experience — my wife as an elite agent on a classified mission</sub></p>
+      <p align="center"><sub>Gamified Valentine's Day experience – my wife as an elite agent on a classified mission</sub></p>
     </td>
     <td width="33%" valign="top">
       <h4 align="center"><a href="https://github.com/LiteDsgn/countdown-timer">Countdown Timer</a></h4>
