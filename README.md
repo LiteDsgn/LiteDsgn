@@ -16,7 +16,7 @@
 <br/>
 
 <!-- Floating Top Languages Card (Fixed API parameters) -->
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=LiteDsgn&layout=compact&hide_border=true&bg_color=FAFAF8&title_color=1A1A18&text_color=656560&langs_count=6" alt="Top Languages" />
+<img align="right" src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,supabase,python,html,css,figma,vercel,git,apple&perline=4" alt="Tech Stack" />
 
 ### About
 
